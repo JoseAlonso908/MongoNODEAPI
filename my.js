@@ -11,8 +11,9 @@ const chalk = require('chalk');
 const errorHandler = require('errorhandler');
 const dotenv = require('dotenv');
 const path = require('path');
-const mongoose = require('mongoose');
 const expressValidator = require('express-validator');
+const mongoose = require('mongoose');
+
 
 
 /**
